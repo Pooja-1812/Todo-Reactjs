@@ -14,11 +14,10 @@
     margin-bottom: 15px;
 }
 
-.task_card_bottom_line{
+.task_card_bottom_line {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
 .task_delete {
@@ -43,6 +42,6 @@
     transition: all 0.3s ease-in-out;
 }
 
-.task_delete:hover .delete_icon{
+.task_delete:hover .delete_icon {
     opacity: 80%;
 }
